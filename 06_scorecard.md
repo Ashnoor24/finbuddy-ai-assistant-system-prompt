@@ -4,9 +4,9 @@
 
 ## Part A: System Prompt Version 2 Fix (Fixing Q09)
 - **Rule Added to System Prompt (v2):**  
-  `IF a customer asks multiple questions in one message, answer briefly in 1 short sentence per topic and stay strictly under 80 words total, or invite them to ask one topic at a time.`
+  IF a customer asks multiple questions in one message, answer briefly in 1 short sentence per topic and stay strictly under 80 words total, or invite them to ask one topic at a time.
 - **Re-test on Q09 (v2 Result):**  
-  FinBuddy answered in **68 words** (briefly covering TDS, credit score, NEFT vs IMPS, and UPI linking, then ending with `"Please confirm with an official source."`). **Status: ✔ FIXED (10 / 10).**
+  FinBuddy answered in **68 words** (briefly covering TDS, credit score, NEFT vs IMPS, and UPI linking, then ending with "Please confirm with an official source."). **Status: ✔ FIXED (10 / 10).**
 
 ## Part B: Role Prompting Test ("Should a 19-year-old college student take a credit card?")
 
